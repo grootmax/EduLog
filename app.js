@@ -1,11 +1,6 @@
 // Firebase Config
 var firebaseConfig = {
-  apiKey: "AIzaSyAhj3X8tJMsff7fb49ARWg6F3kHWMdr3zY",
-  authDomain: "blog-82e13.firebaseapp.com",
-  projectId: "blog-82e13",
-  storageBucket: "blog-82e13.appspot.com",
-  messagingSenderId: "667486544559",
-  appId: "1:667486544559:web:cf0c9fe41e518694f5ea5a"
+  //
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
